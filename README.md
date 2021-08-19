@@ -1,3 +1,3 @@
-# Cibertexto - Análise de dados
+# cibertexto-website-pure-html-css
 
-Página da empresa Cibertexto Tecnologia.
+Lightweight website written in pure HTML and CSS.
